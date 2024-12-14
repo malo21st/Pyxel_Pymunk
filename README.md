@@ -16,8 +16,8 @@
   - 3.2 ボールを動かす  
     - 3_2_impulse_ball.py  
     - 3_2_shot_bullet.py  3_2_shot_bullet.pyxres  
-      <img src="/gif/3_2_shot_bullet.gif" width="400">  
+      <img src="/gif/3_2_shot_bullet.gif" width="300">  
   - 3.3 ゲームへの応用  
     - 3_3_breakout_nrm.py  
     - 3_3_breakout_tri.py  
-      <img src="/gif/3_3_breakout_tri.gif" width="400">
+      <img src="/gif/3_3_breakout_tri.gif" width="300">
