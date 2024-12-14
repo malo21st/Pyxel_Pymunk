@@ -12,7 +12,7 @@ Pyxel Advent Calendar 2024 15日目：Pyxel × Pymunk で物理シミュレー�
 3. 基礎から応用へ  
   - 3.1 跳ねるボール  
     - 3_1_bouncing_ball.py  
-  -  3.2 ボールを動かす  
+  - 3.2 ボールを動かす  
     - 3_2_impulse_ball.py  
     - 3_2_shot_bullet.py  3_2_shot_bullet.pyxres  
   - 3.3 ゲームへの応用  
