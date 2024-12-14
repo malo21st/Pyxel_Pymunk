@@ -1,7 +1,7 @@
 # Pyxel_Pymunk
 Pyxel Advent Calendar 2024 15日目：Pyxel × Pymunk で物理シミュレーション
 
-- 2. アプリケーションの基本構成
+2. アプリケーションの基本構成
   - 2.1 Pyxelの基本構成
     - 2_1_pyxel.py
   - 2.2 Pymunkの基本構成
@@ -9,7 +9,7 @@ Pyxel Advent Calendar 2024 15日目：Pyxel × Pymunk で物理シミュレー�
   - 2.3 PyxelとPymunkの統合
     - 2_3_pyxel_pymunk.py
 
-- 3. 基礎から応用へ
+3. 基礎から応用へ
   - 3.1 跳ねるボール
     - 3_1_bouncing_ball.py
   -  3.2 ボールを動かす
