@@ -14,9 +14,9 @@ Pyxel Advent Calendar 2024 15日目：Pyxel × Pymunk で物理シミュレー�
     - 3_1_bouncing_ball.py  
   - 3.2 ボールを動かす  
     - 3_2_impulse_ball.py  
-    - 3_2_shot_bullet.py  3_2_shot_bullet.pyxres
-      ![](/gif/3_2_shot_bullet.gif)
+    - 3_2_shot_bullet.py  3_2_shot_bullet.pyxres  
+      <img src="/gif/3_2_shot_bullet.gif" width="400">  
   - 3.3 ゲームへの応用  
     - 3_3_breakout_nrm.py  
     - 3_3_breakout_tri.py
-      ![](/gif/3_3_breakout_tri.gif)
+      <img src="/gif/3_3_breakout_tri.gif" width="400">
