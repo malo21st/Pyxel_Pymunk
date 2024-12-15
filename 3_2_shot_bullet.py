@@ -68,9 +68,12 @@ class App:
 
     def draw(self):
         pyxel.cls(0)
-        # Draw static lines
-        pyxel.line(10, 200, 240, 200, 7)
-        pyxel.line(230, 200, 230, 50, 7)
+
+        # Draw bullets
+        for bullet_shape in self.bullets:
+            x, y, *_ = bullet_shape.bb
+            angle = - bullet_shape.body.angle * 180 / 3.14 # radian => degree
+            pyxel.blt(x, y, 1, 0, 0, 10, 10 , rotate=angle)
 
         # Draw boxes
         for block_shape in self.shapes:
@@ -78,10 +81,8 @@ class App:
             angle = - block_shape.body.angle * 180 / 3.14 # radian => degree
             pyxel.blt(x, y, 0, 0, 0, 10, 10 , rotate=angle)
 
-        # Draw bullets
-        for bullet_shape in self.bullets:
-            x, y, *_ = bullet_shape.bb
-            angle = - bullet_shape.body.angle * 180 / 3.14 # radian => degree
-            pyxel.blt(x, y, 1, 0, 0, 10, 10 , rotate=angle)
+        # Draw static lines
+        pyxel.line(10, 200, 240, 200, 7)
+        pyxel.line(230, 200, 230, 50, 7)
 
 App()
