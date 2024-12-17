@@ -8,7 +8,7 @@
 
 **1. PyxelとPymunkの準備**
   - Pyxel  
-    - https://github.com/kitao/pyxel/blob/main/docs/README.ja.md  
+    - https://github.com/kitao/pyxel/tree/main  
   - Pymunk  
     - https://www.pymunk.org/en/latest/  
 
