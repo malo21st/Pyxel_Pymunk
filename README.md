@@ -3,7 +3,16 @@
 ### Qiita記事：https://qiita.com/malo21st/items/32b7865e7c78d4ac2741
 ---
 
-2. アプリケーションの基本構成  
+0. Pymunkのご紹介
+  - https://www.viblo.se/projects/pymunk/  
+
+1. PyxelとPymunkの準備
+  - Pyxel  
+    - https://github.com/kitao/pyxel/blob/main/docs/README.ja.md  
+  - Pymunk  
+    - https://www.pymunk.org/en/latest/overview.html  
+
+3. アプリケーションの基本構成  
   - 2.1 Pyxelの基本構成  
     - 2_1_pyxel.py  
   - 2.2 Pymunkの基本構成  
