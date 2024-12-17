@@ -10,7 +10,7 @@
   - Pyxel  
     - https://github.com/kitao/pyxel/blob/main/docs/README.ja.md  
   - Pymunk  
-    - https://www.pymunk.org/en/latest/overview.html  
+    - https://www.pymunk.org/en/latest/  
 
 **2. アプリケーションの基本構成**  
   - 2.1 Pyxelの基本構成  
