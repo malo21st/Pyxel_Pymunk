@@ -28,7 +28,7 @@
     - 3_2_shot_bullet.py  3_2_shot_bullet.pyxres  
       <img src="/gif/3_2_shot_bullet.gif" width="300">  
       こちらをPyxelに移植しました。  
-      https://www.pymunk.org/en/latest/examples.html#box2d-vertical-stack-py
+      https://github.com/viblo/pymunk/blob/master/pymunk/examples/box2d_vertical_stack.py
   - 3.3 ゲームへの応用  
     - 3_3_breakout_nrm.py  
     - 3_3_breakout_tri.py  
