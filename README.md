@@ -3,16 +3,16 @@
 ### Qiita記事：https://qiita.com/malo21st/items/32b7865e7c78d4ac2741
 ---
 
-0. Pymunkのご紹介
+**0. Pymunkのご紹介**
   - https://www.viblo.se/projects/pymunk/  
 
-1. PyxelとPymunkの準備
+**1. PyxelとPymunkの準備**
   - Pyxel  
     - https://github.com/kitao/pyxel/blob/main/docs/README.ja.md  
   - Pymunk  
     - https://www.pymunk.org/en/latest/overview.html  
 
-3. アプリケーションの基本構成  
+**2. アプリケーションの基本構成**  
   - 2.1 Pyxelの基本構成  
     - 2_1_pyxel.py  
   - 2.2 Pymunkの基本構成  
@@ -20,7 +20,7 @@
   - 2.3 PyxelとPymunkの統合  
     - 2_3_pyxel_pymunk.py  
 
-3. 基礎から応用へ  
+**3. 基礎から応用へ**  
   - 3.1 跳ねるボール  
     - 3_1_bouncing_ball.py  
   - 3.2 ボールを動かす  
