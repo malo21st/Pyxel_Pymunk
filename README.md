@@ -1,7 +1,7 @@
 # Pyxel Advent Calendar 2024  
 ## 15日目　Pyxel × Pymunkで物理シミュレーションを始めよう！  
 ## Qiita記事：https://qiita.com/malo21st/items/32b7865e7c78d4ac2741
-### 関連記事：Web版PyxelでPymunkを使用したい時は、こちらが参考になります。
+関連記事：Web版PyxelでPymunkを使用したい時は、こちらが参考になります。
 - 「Pyxel × Pymunkで物理シミュレーションを始めよう！」を Webで動かしたい🌎
   - https://qiita.com/Kazuhito/items/cf7f2e0f42f47e611f3e  
 ---
